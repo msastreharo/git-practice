@@ -1,0 +1,3 @@
+Name: Marta
+Age: 27
+Favorite color: Purple
